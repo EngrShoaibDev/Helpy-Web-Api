@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Helpy_Web_Apis.props" />
+</Project>
